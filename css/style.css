@@ -1,0 +1,19 @@
+
+.card-shose{
+    background-color:white;
+border: 0;
+}
+
+
+.card-shose-footer, .card-backpack-footer {
+background-color: white;
+border: 0;
+}
+.categories img{
+    width: 50px;
+    height: 50px;
+}
+.top-slide-img .carousel-item{
+background-color: #fceae8;
+border-radius: 2em;
+}
